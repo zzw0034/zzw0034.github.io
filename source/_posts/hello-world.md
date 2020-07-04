@@ -1,38 +1,16 @@
 ---
-title: Hello World
+title: Hello 
+date: 2020-07-04 16:18:00
+tags:
+- 随笔
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Welcome to My place. 
 
-## Quick Start
+一直想写写字，当个自己的作家。 捣鼓了Hexo+github 建了这个地方，用作自己的作文本。
 
-### Create a new post
+PhD期间一直很艰难，也想有个地方抒发记录一下自己的心情吧。
 
-``` bash
-$ hexo new "My New Post"
-```
+希望越来越好。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
 
-### Run server
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
